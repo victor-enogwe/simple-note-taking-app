@@ -1,0 +1,14 @@
+.note {
+  min-height: 100px;
+}
+
+.error {
+  color: red
+}
+
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
